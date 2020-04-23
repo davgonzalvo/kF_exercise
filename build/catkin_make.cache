@@ -1,0 +1,2 @@
+kf_exercise
+-DCATKIN_DEVEL_PREFIX=/home/dav/ws_kfexercise/devel -DCMAKE_INSTALL_PREFIX=/home/dav/ws_kfexercise/install -G Unix Makefiles
